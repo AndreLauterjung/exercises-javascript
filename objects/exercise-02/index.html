@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="André Lauterjung">
+
+    <title>Exercise 02 - JS</title>
+</head>
+
+<body>
+
+    <h1>Bank entry data</h1>
+
+    <label>Holder: 
+        <input id="holder">
+    </label>
+    <br><br>
+
+    <label>Enter a value
+        <input id="valueM">
+    </label>
+    <br><br>
+
+    <hr>
+
+    <!--To take a value-->
+    <button onclick="clickWithdraw()">Withdraw</button><br><br>
+
+    <!--To put a value-->
+    <button onclick="clickDeposit()">Deposit</button><br><br>
+
+    <!--See the balance of account-->
+    <button onclick="clickCheckBalance()">Check Balance</button>
+
+    <hr>
+    
+    <p id="textMessageWelcome"></p>
+    <p id="textResultOfAction"></p>
+    <p id="textoAmountInAccount"></p>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
