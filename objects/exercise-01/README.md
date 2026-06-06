@@ -1,38 +1,3 @@
-# Text in English and Portuguese (Brazil)
-
-## Language - Português (Brasil)
-
-## Exercício 01:
-
-## Descrição
-
-Exercício 01 — Carrinho de Compras.
-
-Crie um objeto carrinho com:
-
-- produto
-- preco
-- quantidade
-
-Crie uma função dentro do objeto chamada total que:
-
--retorna o valor total (preço × quantidade)
-
-## Objetivo
-- Praticar objetos em JavaScript
-- Manipulação de dados
-
-## Tecnologias
-- HTML
-- JavaScript
-
-## Como rodar
-Abra o arquivo `index.html` em um navegador.
-
-
-
-##### Language - English
-
 # Exercise 01
 
 ## Description

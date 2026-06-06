@@ -1,37 +1,3 @@
-# Text in English and Portuguese (Brazil)
-
-## Português (Brasil)
-
-## Exercício 02 
-
-## Descrição:
-
-Criar um objeto "conta" com:
-
--titular
--saldo
-
-Funções:
-
-depositar(valor)
-sacar(valor)
-verSaldo()
-
-Regras:
-
-Não pode sacar mais do que tem
-
-## Tecnologias
-
-- HTML
-- JavaScript
-
-## Como rodar
-
-Abra o arquivo `index.html` no navegador
-
-
-
 ## Exercise 02 
 
 ## Description:
