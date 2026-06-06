@@ -1,0 +1,1 @@
+Lista de Compras: Crie um array vazio chamado carrinho. Use o .push() para adicionar "Arroz". Depois, em outra linha, use o .push() para adicionar "Feij�o" e "Azeite" ao mesmo tempo (sim, voce pode passar varios argumentos!). De um console.log(carrinho).

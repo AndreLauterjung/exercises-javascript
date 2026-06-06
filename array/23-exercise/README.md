@@ -1,0 +1,1 @@
+Verificação de Estoque: Crie um array produtos. Se o último produto for "Vencido", use o .pop() para removê-lo. Se não for, mantenha o array intacto.

@@ -1,0 +1,1 @@
+A Fila da Padaria: Crie um array chamado fila com os nomes: "Ana", "Beto", "Carlos". Use o .pop() para remover o último da fila e depois dê um console.log no array para ver quem sobrou.

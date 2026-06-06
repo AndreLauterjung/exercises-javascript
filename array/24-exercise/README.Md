@@ -1,0 +1,1 @@
+Desempilhando Livros: Imagine uma pilha de livros (um array de strings). Crie um loop while que execute o .pop() repetidamente até que o array esteja completamente vazio. A cada remoção, printe: "Removendo o livro: [nome]".

@@ -1,0 +1,1 @@
+Soma do Último: Crie uma função que receba um array de números. Ela deve remover o último número usando .pop(), somar esse número a uma variável total e retornar o novo array e o total da soma.

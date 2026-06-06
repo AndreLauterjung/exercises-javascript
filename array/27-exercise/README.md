@@ -1,0 +1,1 @@
+Desafio de Lógica: O que acontece se você usar .pop() em um array que já está vazio? Teste isso e tente explicar o resultado (o que ele retorna?).

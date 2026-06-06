@@ -1,0 +1,1 @@
+O Item Solitário: Crie um array com apenas um número. Aplique o .pop() nele e veja o que acontece com o array original se você tentar dar um console.log nele depois.

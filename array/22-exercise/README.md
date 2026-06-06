@@ -1,0 +1,1 @@
+Capturando o Fugitivo: Crie um array de frutas. Use o .pop(), mas desta vez armazene o resultado em uma variável chamada frutaRemovida. Exiba no console a frase: "A fruta removida foi [nome da fruta]".

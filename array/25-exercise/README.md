@@ -1,0 +1,1 @@
+O Desfazer (Undo): Crie um script que simule a função "Desfazer". Tenha um array historicoAcoes e, sempre que o usuário "clicar em desfazer" (simule isso chamando uma função), a última ação deve ser removida e mostrada na tela.

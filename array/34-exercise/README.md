@@ -1,0 +1,1 @@
+O que acontece se você der um .shift() em um array vazio? Teste e me diga o resultado.

@@ -1,0 +1,1 @@
+O Contador: Crie um array chamado numeros com [1, 2, 3]. Dê um push no número 4. Salve o resultado do push em uma variável chamada tamanho e dê um console.log(tamanho). O que apareceu?

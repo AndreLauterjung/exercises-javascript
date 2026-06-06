@@ -1,0 +1,1 @@
+Fila de Impressão: Crie um array chamado documentos com 3 nomes de arquivos. Crie uma função chamada imprimir(). Cada vez que a função for chamada, ela deve remover o primeiro arquivo e dizer: "Imprimindo: [nome do arquivo]".

@@ -1,0 +1,1 @@
+Filtro de Idade: Crie um array convidadosVips. Peça para o usuário (ou simule com uma variável) uma idade. Se a idade for maior ou igual a 18, use o .push() para adicionar o nome dele ao array. Se não, exiba: "Apenas maiores de idade".

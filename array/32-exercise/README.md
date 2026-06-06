@@ -1,0 +1,1 @@
+Sistema de Logs: Crie uma função chamada gerarLog(mensagem). Toda vez que ela for chamada, ela deve adicionar ao array historicoLogs a mensagem junto com o horário atual (use new Date().toLocaleTimeString()).
